@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Trocchi', serif;
+    text-align: center;
+    color: #ff22aa;
+}
+
+.tarjeta {
+    text-align: center;
+    border: 8px solid #881199;
+    margin: 20px 40px;
+    padding: 15px;
+}
+
+h2 {
+    color: #11aaff;
+}
+
+p {
+    color: #ff1122;
+}
+
+span {
+    color: #2c69c4;
+}

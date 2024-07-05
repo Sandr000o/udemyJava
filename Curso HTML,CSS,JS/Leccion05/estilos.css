@@ -1,0 +1,18 @@
+h1 {
+    color:#f72585;
+    text-align: center;
+}
+
+h2{
+    color:#f15221;
+}
+
+p{
+    color: #4572ff;
+}
+
+div {
+    border: 10px solid #560bad;
+    background-color: aliceblue;
+    text-align: center;
+}

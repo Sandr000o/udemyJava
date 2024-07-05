@@ -1,0 +1,19 @@
+* {
+    padding:0;
+    margin: 0;
+}
+body {
+    background-color: #cc22aa;
+}
+
+.principal{
+  
+   
+}
+.tarjeta{
+   
+
+    width: 250px;
+    height: 400px;
+    background-color: #881add;
+}

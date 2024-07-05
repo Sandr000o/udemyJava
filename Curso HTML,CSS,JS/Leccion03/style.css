@@ -1,0 +1,35 @@
+h1 {
+    color: #22aa11;
+}
+
+a:link{
+    color:#fcddee;
+    text-decoration: none;
+    
+}
+
+a:visited{
+    color:#33ccff;
+}
+
+a:hover{
+    text-decoration: dashed;
+    color:#88ccaa;
+    position: absolute;
+}
+
+
+.contenido{
+    color:#1112cc;
+    background-color: #22aa11;
+    padding: 15px;
+    font-size: 1.6em;
+    display: inline-block;
+}
+
+.prueba {
+    padding: 15px;
+    font-size: 1.6em;
+    display: inline-block;
+    background-color: #33ccff;
+}
